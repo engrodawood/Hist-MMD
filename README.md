@@ -1,4 +1,4 @@
 # MAXIMUM-MEAN-DISCREPANCY-KERNELS-FOR-PREDICTIVE-AND-PROGNOSTIC-MODELING-OF-WHOLE-SLIDE-IMAGES
 
 
-<img src="Block Diagram.png" alt="Block Diagram"/>
+<img src="workflow.png" alt="Block Diagram"/>
