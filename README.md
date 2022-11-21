@@ -48,3 +48,10 @@ Details can be found in the paper and survival_analysis.
 ## Note
 
 Some intermediate data are put into the folder `data`.
+
+--------
+
+**Footnotes:**
+
+
+\* Joint first authorship
