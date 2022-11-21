@@ -51,7 +51,4 @@ Some intermediate data are put into the folder `data`.
 
 --------
 
-**Footnotes:**
-
-
 \* Joint first authorship
