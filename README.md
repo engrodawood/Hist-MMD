@@ -11,6 +11,29 @@ How similar are two images? In computational pathology, where Whole Slide Images
 
 <img src="workflow.png" alt="Block Diagram"/>
 
+## Dependencies
+scipy 1.7.3
+
+numpy 1.21.6
+
+matplotlib 3.2.2
+
+geomloss 0.2.4
+
+pandas 1.3.5
+
+torch 1.12.1+cu113
+
+sksurv 0.17.2
+
+lifelines 0.27.4
+
+sklearn 1.0.2
+
+seaborn 0.11.2
+
+tqdm 4.64.1 
+
 ## Usage
 ### Step 1. Data download
 Download the FFPE whole slide images from GDC portal (https://portal.gdc.cancer.gov/) for breast carcinoma (TCGA-BRCA).
