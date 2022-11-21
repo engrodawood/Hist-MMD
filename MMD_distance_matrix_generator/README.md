@@ -5,3 +5,5 @@ We generate a distance matrix using MMD as the distnace metric for two datasets.
 
 ## Usage
 To generate these matrices use the IPython Notebook file `MMD_distance_matrix_generator/distance_matrix_generator.ipynb`.
+
+To then visualise the generated distance matrix use `MMD_distance_matrix_generator/distance_matrix_visualisation.ipynb`
