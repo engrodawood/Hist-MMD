@@ -52,7 +52,7 @@ Using the code under `code_data_processing` to perform
 Details can be found in the paper and code_data_processing.
 ### Step 3. MMD Kernel generation for 1024-dimensional feature representations of 652 and 1052 TCGA-BRCA slides 
 
-Using the code under `MMD_distance_matrix_generator` to generate an $N \times N$ distance matrix using MMD where $N$ is the number of WSIs in a dataset.
+Using the code under `MMD_distance_matrix_generator` [https://github.com/engrodawood/Hist-MMD/tree/main/MMD_distance_matrix_generator] to generate an $N \times N$ distance matrix using MMD where $N$ is the number of WSIs in a dataset.
 
 Details can be found in the paper and MMD_distance_matrix_generator.
 
